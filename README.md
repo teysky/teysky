@@ -34,7 +34,7 @@
 
 ---
 
-## 🕷️ Sobre Mim
+## 🕷️ About Me
 
 ```javascript
 const gabriel = {
